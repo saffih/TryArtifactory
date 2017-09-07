@@ -14,9 +14,9 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="main" target="1.8" />
-      <module name="part1" target="1.5" />
-      <module name="part2" target="1.5" />
-      <module name="part3" target="1.5" />
+      <module name="part1" target="1.8" />
+      <module name="part2" target="1.8" />
+      <module name="part3" target="1.8" />
       <module name="try-artifactory" target="1.8" />
     </bytecodeTargetLevel>
   </component>
