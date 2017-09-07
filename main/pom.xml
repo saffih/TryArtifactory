@@ -5,7 +5,7 @@
     <parent>
         <artifactId>try-artifactory</artifactId>
         <groupId>org.saffih</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0-TNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -26,17 +26,17 @@
         <dependency>
             <groupId>org.saffih</groupId>
             <artifactId>part1</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0-TNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.saffih</groupId>
             <artifactId>part2</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0-TNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>org.saffih</groupId>
             <artifactId>part3</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.0-TNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
